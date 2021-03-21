@@ -1,4 +1,4 @@
-The purpose of this project is to show my React skills. Program is fetching recipes from the API. I've deployed the app on Github Pages: https://szafransky.github.io/cookbook/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
